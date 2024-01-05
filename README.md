@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Andgihrew
-- 👀 I’m interested in coding in python.
-- 🌱 I’m currently learning how to use python.
+idk, at this point, am i coding?
